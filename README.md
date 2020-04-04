@@ -1,2 +1,2 @@
-# EstudoSQL_URI_Online
+# URI-Online-Judge-Solutions
 Desafios do URI Online
