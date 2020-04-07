@@ -18,4 +18,7 @@ namespace URI {
             Console.WriteLine("O JOGO DUROU " + duracao + " HORA(S)");
         }
     }
+} + " %");
+        }
+    }
 }
